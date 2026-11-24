@@ -4,7 +4,7 @@
 
 # 🌌 NEXUS INTELLIGENCE
 ### High-End Engineering Cockpit & AI Deployment Dashboard
-**Owner:** khdxsohee (GitHub: [khdxsohee](https://github.com/khdxsohee))
+**Owner:** farhan-swe (GitHub: [farhan-swe](https://github.com/farhan-swe))
 
 ---
 
@@ -57,7 +57,7 @@ Featuring a glassmorphic "Dark Matter" theme, Nexus utilizes deep backdrop blurs
 
 ```bash
 # Clone the repository
-git clone https://github.com/khdxsohee/nexus-dashboard.git
+git clone https://github.com/farhan-swe/nexus-dashboard.git
 
 # Navigate to directory
 cd nexus-dashboard
@@ -82,7 +82,7 @@ Nexus follows a strictly modular architecture:
 
 ## 🤝 CONTRIBUTING
 
-Nexus is an open platform. khdxsohee welcomes pull requests and feature suggestions from the community. Please ensure code follows the high-fidelity design standards.
+Nexus is an open platform. farhan-swe welcomes pull requests and feature suggestions from the community. Please ensure code follows the high-fidelity design standards.
 
 ---
 
@@ -92,7 +92,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
-### Developed with 💜 by [khdxsohee](https://github.com/khdxsohee)
+### Developed with 💜 by [farhan-swe](https://github.com/farhan-swe)
 *Advancing the frontiers of UI/UX and Intelligence.*
 
 </div>
